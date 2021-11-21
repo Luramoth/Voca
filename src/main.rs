@@ -5,7 +5,7 @@ use rand::Rng;
 use colored::*;
 
 fn main (){
-    println!("frick torvalds I swear to god I hate git and everyhitng it stands for");
+    println!("fuck torvalds I swear to god I hate git and everyhitng it stands for");
 
     let number = rand::thread_rng().gen_range(1, 10);
 
